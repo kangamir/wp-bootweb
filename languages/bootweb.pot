@@ -1,0 +1,125 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-08 07:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: functions.php:54
+msgid "Color Scheme"
+msgstr ""
+
+#: functions.php:70
+msgid "Select Color Scheme:"
+msgstr ""
+
+#: functions.php:74
+msgid "general"
+msgstr ""
+
+#: functions.php:75
+msgid "Forest Nature"
+msgstr ""
+
+#: functions.php:76
+msgid "School Green"
+msgstr ""
+
+#: functions.php:77
+msgid "Scout Brown"
+msgstr ""
+
+#: functions.php:78
+msgid "Orange Juice"
+msgstr ""
+
+#: functions.php:79
+msgid "Anonymous"
+msgstr ""
+
+#: functions.php:80
+msgid "Blue Flat"
+msgstr ""
+
+#: functions.php:110
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: functions.php:115
+#, php-format
+msgctxt "post author"
+msgid "Posted by %s"
+msgstr ""
+
+#: functions.php:141
+#, php-format
+msgid "Posted in %s"
+msgstr ""
+
+#: functions.php:181
+msgid "Read More"
+msgstr ""
+
+#: footer.php:22
+#, php-format
+msgid "Copyright &copy; %s"
+msgstr ""
+
+#: footer.php:23
+msgid "All content is protected by international and DMCA copyright law."
+msgstr ""
+
+#: woocommerce/myaccount/navigation.php:34
+msgid "Want To Buy Again?"
+msgstr ""
+
+#: woocommerce/myaccount/navigation.php:35
+msgid "Are you want to buy other item? Let&rsquo;s to follow this link."
+msgstr ""
+
+#: woocommerce/myaccount/navigation.php:35
+msgid "Click Here"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:31
+msgid "All of your history orders."
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:34
+msgid "Look All"
+msgstr ""
+
+#. Name of the theme
+msgid "WP BootWeb"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Tema wordpress yang didesain minimal untuk situs anda yang menggunakan "
+"woocommerce, blog dan perusahaan besar. Tema ini adalah sebuah dedikasi dan "
+"inspirasi besar untuk situs besar dan toko online. Semuanya hampir "
+"menggunakan elemen bootstrap 4."
+msgstr ""
+
+#. URI of the theme
+msgid "https://developers.ngawicloud.bid/themes/wp-bootweb/"
+msgstr ""
+
+#. Author of the theme
+msgid "Tim Pengembang Ngawi Cloud"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://developers.ngawicloud.bid/"
+msgstr ""
