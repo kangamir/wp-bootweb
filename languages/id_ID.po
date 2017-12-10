@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP BootWeb\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-07 08:59+0000\n"
+"PO-Revision-Date: 2017-12-07 09:00+0000\n"
+"Last-Translator: ngawidev190 <official@ngawicloud.bid>\n"
+"Language-Team: Indonesian\n"
+"Language: id-ID\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: functions.php:54
+msgid "Color Scheme"
+msgstr ""
+
+#: functions.php:70
+msgid "Select Color Scheme:"
+msgstr ""
+
+#: functions.php:74
+msgid "Default"
+msgstr ""
+
+#: functions.php:75
+msgid "Magenta Pink"
+msgstr ""
+
+#: functions.php:76
+msgid "Navy Indigo"
+msgstr ""
+
+#: functions.php:77
+msgid "Dark Olive"
+msgstr ""
+
+#: functions.php:78
+msgid "Orange Light"
+msgstr ""
+
+#: functions.php:79
+msgid "Sky Light"
+msgstr ""
+
+#: functions.php:80
+msgid "Blue Flat"
+msgstr ""
+
+#: functions.php:110
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: functions.php:115
+#, php-format
+msgctxt "post author"
+msgid "Posted by %s"
+msgstr ""
+
+#: functions.php:141
+#, php-format
+msgid "Posted in %s"
+msgstr ""
+
+#: footer.php:22
+#, php-format
+msgid "Copyright &copy; %s"
+msgstr "Hak Cipta &copy; %s"
+
+#: footer.php:23
+msgid "All content is protected by international and DMCA copyright law."
+msgstr ""
+
+#. Name of the theme
+msgid "WP BootWeb"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Tema wordpress yang didesain minimal untuk situs anda yang menggunakan "
+"woocommerce, blog dan perusahaan besar. Tema ini adalah sebuah dedikasi dan "
+"inspirasi besar untuk situs besar dan toko online. Semuanya hampir "
+"menggunakan elemen bootstrap 4."
+msgstr ""
+
+#. URI of the theme
+msgid "https://developers.ngawicloud.bid/themes/wp-bootweb/"
+msgstr ""
+
+#. Author of the theme
+msgid "Tim Pengembang Ngawi Cloud"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://developers.ngawicloud.bid/"
+msgstr ""
