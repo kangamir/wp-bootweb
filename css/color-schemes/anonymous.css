@@ -1,0 +1,55 @@
+body.home{
+    background: #000;
+}
+.site-content .container {
+    background: white;
+}
+header#masthead, nav.navbar-collapse {
+    background: #000;
+    border-bottom: none;
+}
+.entry-content a,
+.entry-meta a,
+.entry-footer a,
+.entry-footer .cat-links a,
+.entry-meta .byline a,
+.nav>li>a:focus,
+.nav>li>a:hover {
+    color: #000;
+}
+.entry-title a{
+    color: #000;
+}
+.nav-previous a, .nav-next a {
+    color: #ad1457;
+}
+#commentform input#submit, .reply a {
+    background: #ad1457;
+}
+.reply a:hover,
+#commentform input#submit:hover,
+.reply a:focus,
+#commentform input#submit:focus,
+input.btn:focus {
+    background: #ad1457;
+}
+input.search-field::placeholder {
+    color: #ad1457 !important;
+}
+.search-form label:hover:before {
+    background: #ad1457;
+}
+input.search-field {
+    border-bottom: 1px solid #ad1457 !important;
+}
+footer#footer-top{
+    border-top: 1px solid #fff;
+    background: #191919
+}
+
+
+footer#footer-top h3.widget-title {
+  border-bottom: 1px solid #89C4F4;
+  margin: 2px 0 20px 0;
+  color:white;
+}
